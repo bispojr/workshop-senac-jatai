@@ -1,2 +1,2 @@
-# workshop-senac-jatai
-Palestra realizada durante o I Workshop Tecnológico de Desenvolvimento Colaborativo
+# Palestra GitHub
+Palestra realizada durante o `I Workshop Tecnológico de Desenvolvimento Colaborativo`.
